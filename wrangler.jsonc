@@ -10,7 +10,7 @@
   },
   "compatibility_flags": [
     "nodejs_compat"
-  ]
+  ],
   "vars": {
     "PASSWORD": "wang518"
   }
